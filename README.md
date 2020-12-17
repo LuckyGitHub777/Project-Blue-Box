@@ -1,5 +1,5 @@
 # Project Blue Box
-Project Blue Box is an alien-themed Boot2Root VulnHub style VM with over 15 CTF flags available for capture leading to "secret" information.
+Project Blue Box is an alien-themed Boot2Root VulnHub style VM with over 15 CTF flags up for capture leading to "secret" information.
 
 ### Overview
 
