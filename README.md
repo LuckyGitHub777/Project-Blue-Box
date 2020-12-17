@@ -3,9 +3,9 @@ Project Blue Box is an alien-themed Boot2Root VulnHub style VM with over 15 CTF 
 
 ### Overview
 
-Project Blue Box is the VM part of the Make-n-Break Cyber Project in which a virtual machine and locally-hosted website were created and exploited in the interest of contributing to the InfoSec community and exercising red team skills.
+Project Blue Box is the VM portion of the Make-n-Break Cyber Project in which a virtual machine and locally-hosted website were created for exploitation in the interest of contributing to the InfoSec community and exercising red team skills.
 The machine and website were created using VirtualBox, Linux, Apache, Wordpress, PHP, and MySQL. 
-The box can be exploited using tools from Kali Linux and exploits found on Exploit-DB.com.
+The box can be exploited using tools from Kali Linux and exploits available on Exploit-DB.com.
 
 ### Features
 
@@ -13,7 +13,7 @@ The box can be exploited using tools from Kali Linux and exploits found on Explo
 * VulnHub-style VM
 * Boot2Root Challenge
 * Capture the Flag
-* Various Vulnerabilities 
+* Multiple Vulnerabilities 
 * "Secret" Files
 
 ### Resources
