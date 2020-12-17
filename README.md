@@ -20,4 +20,4 @@ The box can be exploited using tools from Kali Linux and exploits found on Explo
 ### Resources
 
 * [Video Presentation](https://youtu.be/_9ztC4sJ6vM)
-* [Vulnerable VM OVA File](https://www.dropbox.com/sh/yjpbajtnhoe5r2q/AADXqtvTmjLtilZzfgHkBVTQa?dl=0)
+* [Project Blue Box OVA File](https://www.dropbox.com/sh/yjpbajtnhoe5r2q/AADXqtvTmjLtilZzfgHkBVTQa?dl=0)
